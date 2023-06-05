@@ -1,0 +1,106 @@
+.nav {
+    position: absolute;
+    background-color: #2F4136;
+    width: 1480px;
+    height: 132px;
+    top: 0;
+    left: 0;
+}
+
+.filler {
+    margin-bottom: 150px;
+}
+
+ul {
+    list-style: none;
+}
+
+.opt li a {
+    float: right;
+    padding: 13px 30px;
+    margin: 0;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.left img {
+    float: left;
+    width: 250px;
+    height: 100px;
+    display: block;
+}
+
+/* CSS untuk judul "Meet The Team!!" */
+.title {
+    text-decoration: none;
+    font-family: Arial;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    color:black;
+  }
+  
+  /* CSS untuk foto dan informasi anggota tim */
+  .member {
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+  }
+  
+  .member-image {
+    width: 150px;
+    margin-right: 20px;
+  }
+  
+  .member-info {
+    flex-grow: 1;
+  }
+  
+  .member-info h3 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .member-info p {
+    margin: 0;
+  }
+  
+  /* CSS untuk teks panjang */
+  .description {
+    margin-bottom: 40px;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
+  /* CSS untuk judul "Goals/Tujuan" */
+  .goals-title {
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  /* CSS untuk tujuan */
+  .goal {
+    margin-bottom: 10px;
+    font-family: Arial;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+  }
