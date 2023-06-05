@@ -141,3 +141,63 @@ ul {
   .card a {
     color: #98D1EA;
   }
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #000000;
+}
+
+/* CSS untuk judul "Meet The Team!!" */
+.title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+/* CSS untuk foto dan informasi anggota tim */
+.member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.member-image {
+  width: 150px;
+  margin-right: 20px;
+}
+
+.member-info {
+  flex-grow: 1;
+}
+
+.member-info h3 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.member-info p {
+  margin: 0;
+}
+
+/* CSS untuk teks panjang */
+.description {
+  margin-bottom: 40px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+/* CSS untuk judul "Goals/Tujuan" */
+.goals-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* CSS untuk tujuan */
+.goal {
+  margin-bottom: 10px;
+}
