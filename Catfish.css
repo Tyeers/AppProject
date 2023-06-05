@@ -1,0 +1,154 @@
+.nav {
+    position: absolute;
+    background-color: #2F4136;
+    width: 1480px;
+    height: 132px;
+    top: 0;
+    left: 0;
+}
+
+.filler {
+    margin-bottom: 150px;
+}
+
+ul {
+    list-style: none;
+}
+
+.opt li a {
+    float: right;
+    padding: 13px 30px;
+    margin: 0;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.left img {
+    float: left;
+    width: 250px;
+    height: 100px;
+    display: block;
+}
+
+.gallus {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+    margin: 30px;
+    margin-bottom: 50px;
+    clear: both;
+}
+
+.desc {
+    margin-left: 30px;
+    line-height: 23px;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+span {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+.pr {
+    float: right;
+    border: black solid 2px;
+    margin-right: 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    background-color: rgba(78, 123, 42, 0.6);
+    height: 1450px;
+    width: 331px;
+}
+
+.fam {
+    font-family: sans-serif;
+    font-size: 20px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 44px;
+    margin-bottom: 20px;
+    background: #ffffff 60%;
+    border: black solid 2px;
+    padding: 0px 50px 0px 50px;
+    top: 0;
+    bottom: 0;
+}
+
+.rooster {
+    margin-left: 37px;
+    display: inline-block;
+    border: black solid 3px;
+}
+
+.rooster img {
+    display: inline-block;
+    width: 255px;
+    height: 290px;
+    scale: 0.97;
+}
+
+.rf {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px
+}
+
+.scien {
+    font-family: sans-serif;
+    display: inline-block;
+    padding: 0 20px 0 20px;
+    background: #D9D9D9;
+    border: black solid 2px;
+    font-size: 20px;
+    margin-left: 13px;
+}
+
+.classi {
+    line-height: 40px;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.classi a {
+    color: #257496;
+}
+
+.trinomial {
+    font-family: sans-serif;
+    display: inline-block;
+    padding: 0 60px 0 60px;
+    background: #D9D9D9;
+    border: black solid 2px;
+    font-size: 20px;
+    margin-left: 17px;
+}
+
+.triname {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.distmap {
+    font-family: sans-serif;
+    display: inline-block;
+    padding: 0 60px 0 60px;
+    background: #D9D9D9;
+    border: black solid 2px;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.map {
+    margin-left: 54px;
+}
